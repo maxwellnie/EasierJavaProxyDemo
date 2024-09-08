@@ -55,6 +55,7 @@ public class ProxyImpl {
     public void hi(){
         System.out.println("I'm here.");
     }
+    
 }
 ```
 ## 1.创建 DefaultProxyObjectFactory、SimpleProxyInfoParser对象

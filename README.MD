@@ -1,4 +1,4 @@
-This is a demonstration on how to programmatically make it easier to use Java agents
+This is a demonstration on how to programmatically make it easier to use Java proxy
 ## What can it do?
 1. Can provide you with a new idea for Java proxy implementation
 2. Provides a more convenient way for Java agents to use annotations to define proxy implementations in classes that are unrelated to the target class
